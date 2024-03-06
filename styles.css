@@ -4,3 +4,65 @@
     font-family: "Oswald", sans-serif;
     box-sizing: border-box;
 }
+
+.section-left {
+    display: inline-block;
+    width: 60vw;
+}
+
+.section-right {
+    display: inline-block;
+    background: rgba(93, 93, 125, 0.16);
+    height: 100vh
+    
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: 400;
+    line-height: 80px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #5D5D7D;
+}
+
+p {
+    width: 540px;
+    height: 144px;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 48px;
+    color: #5D5D7D;
+    opacity: 0.6;
+}
+
+button {
+     width: 269px;
+    height: 62px;
+    border-radius: 30px;
+    background: #9499EA;
+    border: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+header {
+    width: 376px;
+    height: 41.12px;
+    text-align: center;
+}
+
+a {      
+    width: 80px;
+    height: 41px;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 41px;
+    color: #5D5D7D;
+    margin-right: 15px;
+}
+
